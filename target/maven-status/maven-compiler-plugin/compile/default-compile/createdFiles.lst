@@ -1,0 +1,5 @@
+io/vmware/UsageReport/entities/UsageReport.class
+io/vmware/UsageReport/repositories/UsageReportRepository.class
+io/vmware/UsageReport/entities/Application.class
+io/vmware/UsageReport/Space.class
+io/vmware/UsageReport/UsageReportApplication.class
